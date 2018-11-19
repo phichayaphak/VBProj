@@ -1,5 +1,14 @@
 #include<stdio.h>
 #include<string.h>
+asdfasdf
+asdffasd
+fasdf
+asdfas
+dfasf
+asdf
+asdfasdf
+asdf
+asdfsdf
 
 void main(){
 	char str1[10]="BIS";
